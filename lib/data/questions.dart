@@ -1,23 +1,23 @@
 import 'package:quiz_app/models/quiz_app_sp26.dart';
 
 const questions = [
-  QuizQuestion('What model is the new m3', 
-  ['g80',
-  'f80',
-  'e90',
-  'e46']
+  QuizQuestion('Which company has the rs4 model', 
+  ['audi',
+  'Mercedes-Benz',
+  'BMW',
+  'Porsche']
   ),
-  QuizQuestion('What model is the new m5', 
-  ['g90',
-  'f90',
-  'e39',
-  'f10']
+  QuizQuestion('What lamborghini has doors that go up', 
+  ['Aventador',
+  'Huracan',
+  'urus',
+  'Temerario']
   ),
-  QuizQuestion('what m3 model is known for its v8', 
-  ['e90/e92',
-  'f80/f82',
-  'f90',
-  'f98']
+  QuizQuestion('What is the engine code of the X3M', 
+  ['f97',
+  'f82',
+  'rs3',
+  'Svj']
   ),
   QuizQuestion('What does BMW stand for', 
   ['Bavarian Motor Works',
@@ -25,6 +25,17 @@ const questions = [
   'Berlin Motor World',
   'Bavarian Machine Workshop']
   ),
+  QuizQuestion('What is the fastest car between the three models', 
+  ['M5 f90', 'Rs7', 
+  'Urus',
+  'Porsche Turbo S']
+  ),
+   QuizQuestion('How many rings does the audi logo have', 
+  ['1', '2', 
+  '3',
+  '4']
+  ),
+  
 
 
 ];
